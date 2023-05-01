@@ -59,6 +59,8 @@ Question: What are the top players for each position?
 
 Results: Cristiano Ronaldo and Lionel Messi were the top rated strikers.
 
+Cluster - I created a cluster of players based on their wage, overall rating, and value. This could be beneficial if someone is looking for a player within a certain price-range group. You could isolate that cluster group and view players and their overall ratings. 
+
 ### Step 5: Create a dashboard & stories
 
 I added some of the visualizations to a dashboard and created stories for each of the visaulizations to explain the insights from each visualization.
